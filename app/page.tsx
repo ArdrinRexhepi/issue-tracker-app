@@ -6,9 +6,7 @@ export default function Home() {
   return (
     <div>
       <h1>Hello world</h1>
-
-      <Link href="/users">Users page</Link>
-      <ProductCard />
+      {/* <ProductCard /> */}
     </div>
   );
 }
